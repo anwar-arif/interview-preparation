@@ -1,3 +1,8 @@
+## System Design
+For system design, it is very important that you have sound knowledge on database. Choosing the right database is very important. <br>
+For example, initial debate can be between sql vs nosql. <br>For nosql, there are many options, knowing the tradeoffs between them is a must. <br>
+Make sure you know these databases at least: CDN, In Memory DB (e.g. redis), Read-heavy DB, Write-heavy DB. <br> And what types of data can be stored.
+
 ## System Design - Core Concepts
 System design is a very vast topic. Followings are the minimum level of knowledge
 you must know:
@@ -26,9 +31,6 @@ you must know:
 
 
 ## Some resources
-For system design, it is very important that you have sound knowledge on database. Choosing the right database is very important. <br>
-For example, initial debate can be between sql vs nosql. <br>For nosql, there are many options, knowing the tradeoffs between them is a must. <br>
-Make sure you know these databases at least: CDN, In Memory DB (e.g. redis), Read-heavy DB, Write-heavy DB. <br> And what types of data can be stored.
 
 | # | Topic                          | Link |
 |---|--------------------------------|------|
