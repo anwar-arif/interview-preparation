@@ -26,6 +26,10 @@ you must know:
 
 
 ## Some resources
+For system design, it is very important that you have sound knowledge on database. Choosing the right database is very important. <br>
+For example, initial debate can be between sql vs nosql. <br>For nosql, there are many options, knowing the tradeoffs between them is a must. <br>
+Make sure you know these databases at least: CDN, In Memory DB (e.g. redis), Read-heavy DB, Write-heavy DB. <br> And what types of data can be stored.
+
 | # | Topic                          | Link |
 |---|--------------------------------|------|
 | 1 | TechPrep (preferred)           | https://www.youtube.com/@TechPrepYT/videos |
