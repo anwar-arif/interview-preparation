@@ -1,0 +1,2 @@
+- how a candidate is evaluated in technical interview: https://www.techinterviewhandbook.org/coding-interview-rubrics/
+- mock interview: https://www.tryexponent.com/practice

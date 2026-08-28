@@ -202,7 +202,7 @@ int main() {
 </details>
 
 <details>
-<summary>6. Bonus: Sorting with Custom Comparator (Lambda)</summary>
+<summary>6. Sorting with Custom Comparator (Lambda)</summary>
 
 ### Explanation
 A very common interview requirement is sorting a container (like a vector of pairs or custom objects) based on a specific logic. Using inline lambda functions inside `std::sort` makes this clean and straightforward.
