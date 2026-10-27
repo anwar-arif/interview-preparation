@@ -14,3 +14,4 @@
 | 11 | What Happens When You Type a URL and Press Enter | https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a |
 | 12 | How SSL Works | https://www.tutorialsteacher.com/https/how-ssl-works |
 | 12 | How SSL Works | https://blog.hubspot.com/marketing/what-is-ssl |
+| 13 | Networking concepts in short (recommended) | https://www.youtube.com/watch?v=qUHyCjOo8Z8 |
